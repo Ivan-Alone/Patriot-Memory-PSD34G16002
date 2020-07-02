@@ -3,6 +3,7 @@
 Mini project to add compatibility for this RAM with more motherboards on G41 chipset (particularly **MSI G41M-P28**)
 All achived by changing Timings of this RAM to **JEDEC PC3-12800K 1600MHz**
 
+**[README на русском](https://github.com/Ivan-Alone/Patriot-Memory-PSD34G16002/blob/master/README.RU.md)**
 
 
 ## SPD Binaries
