@@ -13,7 +13,7 @@ All achived by changing Timings of this RAM to **JEDEC PC3-12800K 1600MHz**
 
 #### Modded (changed Timings to JEDEC PC3-12800K 1600MHz) Patriot SPD Binary
 
-[Patriot Memory PSD34G16002 DDR3-1600K.bin](https://github.com/Ivan-Alone/Patriot-Memory-PSD34G16002/raw/master/Patriot%20Memory%20PSD34G16002%20DDR3-1600K.bin)
+[Patriot Memory PSD34G16002 DDR3-1600K-MOD.bin](https://github.com/Ivan-Alone/Patriot-Memory-PSD34G16002/raw/master/Patriot%20Memory%20PSD34G16002%20DDR3-1600K%20-%20MOD.bin)
 
 
 
