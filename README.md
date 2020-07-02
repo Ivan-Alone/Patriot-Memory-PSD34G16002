@@ -44,7 +44,7 @@ You need other motherboard (other PC), that can initialise this memory for flash
 
     2.1. You must have at least one memory module that supported by your motherboard (ex. 2GB DDR3). Install it (ONLY supported!) and boot Windows. When you reached Desktop, put the computer to Sleep. 
 
-    2.2. **NOTE: Your PC MUST go to state with blinking Power LED. If not - go to BIOS and change ACPI Sleep state from ***S1*** **to** ***S3*****, or vice versa**
+    2.2. **NOTE: Your PC MUST go to state with blinking Power LED. If not - go to BIOS and change ACPI Sleep state from *****S1*** **to** ***S3*****, or vice versa**
 
     2.3. When PC is blinking by led, install this unsupported memory. Next - turn on PC. 
 
